@@ -1,10 +1,15 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on data engineer tasks
-- 🌱 I’m currently learning data science
+- 🔭 Currently working as a Data Engineer  
+- 🌱 Expanding my skills in Data Science  
 
+### 🎉 Open Source Contributions
+- Contributed to [databrickslabs/dqx](https://github.com/databrickslabs/dqx)  
+  - Fixed a critical datetime edge‑case bug in the data quality profiler  
+  - Added integration tests to ensure long‑term stability  
+  _Merged PR: [#483](https://github.com/databrickslabs/dqx/pull/483)_
 
-🍀❤️⚡⚠️
+🍀 ❤️ ⚡ ⚠️
 
 <!--
 **bsr-the-mngrm/bsr-the-mngrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
